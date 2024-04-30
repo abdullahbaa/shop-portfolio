@@ -1,0 +1,31 @@
+body{
+    padding: 70px 60px;
+}
+.name{
+    font-size: 20px;
+    color: black;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 10px;
+}
+.navbar{
+    display: flex;
+    
+}
+.btn-primary{
+    background-color: purple;
+
+}
+.first-section{
+    display: flex;
+    background-color: white;
+    padding: 100px 100px;
+}
+.first-img{
+    width: 20px;
+    height:30px;
+}
